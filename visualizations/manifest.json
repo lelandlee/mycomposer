@@ -1,14 +1,14 @@
 {
-  "mycompany": {
-    "title": "[DISPLAY_NAME]",
-    "website": "[WEBSITE_URL]",
-    "logo": "[LOGO_URL]",
+  "lelandlee": {
+    "title": "Leland Lee",
+    "website": "https://github.com/lelandlee",
+    "logo": "https://avatars3.githubusercontent.com/u/9023149?v=3",
     "visualizations": {
 
 
       "list": {
           "license": "MIT",
-          "website": "[INFO_URL]",
+          "website": "https://github.com/lelandlee",
           "versions": {
             "1.0.0": {
               "simple": {
